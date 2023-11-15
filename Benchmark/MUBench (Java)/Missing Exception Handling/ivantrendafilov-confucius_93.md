@@ -8,6 +8,8 @@ Commit: 2c3028782eaaf2337bde558b4a700210a10f543e
 
 java.lang.Byte
 
+https://github.com/openjdk/jdk/blob/3c6ffcadfec42c544c9b0d4188e50135f608b9db/src/java.base/share/classes/java/lang/Byte.java#L64
+
 ## Caller
 
 ```java

@@ -8,6 +8,8 @@ Commit: 213e25632fbbdfc69eb01ddb8e4045db9c8025fc
 
 java.lang.String
 
+https://github.com/openjdk/jdk/blob/3c6ffcadfec42c544c9b0d4188e50135f608b9db/src/java.base/share/classes/java/lang/String.java#L144
+
 ## Caller
 
 ```java

@@ -6,7 +6,9 @@ Commit: bb09d8916736e3e572eef2cb5e79fe11c80ad1de
 
 ## API
 
-java.io.DataOutputStream
+DataOutputStream
+
+    https://github.com/openjdk/jdk/blob/3c6ffcadfec42c544c9b0d4188e50135f608b9db/src/java.base/share/classes/java/io/DataOutputStream.java#L69
 
 ## Caller
 

@@ -8,6 +8,8 @@ Commit: http://jigsaw.w3.org/Devel/Mirror/jigsaw_2.0.5.zip
 
 org.w3c.tools.resources.ResourceReference
 
+https://www.w3.org/Jigsaw/Doc/Programmer/samples/Resource.html
+
 ## Caller
 
 ```java

@@ -8,6 +8,8 @@ Commit: 41461b41309bf9f027a46f178cb777a1a94b8c3f^1
 
 java.lang.Long
 
+https://github.com/openjdk/jdk/blob/3c6ffcadfec42c544c9b0d4188e50135f608b9db/src/java.base/share/classes/java/lang/Long.java#L75
+
 ## Caller
 
 ```java

@@ -8,6 +8,8 @@ Commit: 677302cb8b5a2507df97c5822eef3a03ebc4e23a^1
 
 org.testng.reporters.XMLStringBuffer
 
+https://android.googlesource.com/platform/external/testng/+/10c223b/src/main/java/org/testng/reporters/XMLStringBuffer.java
+
 ## Caller
 
 ```java

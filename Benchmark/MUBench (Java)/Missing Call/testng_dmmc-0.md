@@ -8,6 +8,8 @@ Commit: 677302cb8b5a2507df97c5822eef3a03ebc4e23a^1
 
 java.lang.StringBuilder
 
+https://github.com/openjdk/jdk/blob/3c6ffcadfec42c544c9b0d4188e50135f608b9db/src/java.base/share/classes/java/lang/StringBuilder.java#L91
+
 ## Caller
 
 ```java

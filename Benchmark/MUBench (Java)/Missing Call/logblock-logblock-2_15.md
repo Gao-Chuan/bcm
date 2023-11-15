@@ -8,6 +8,8 @@ Commit: 40548aad551c3ec59a72433937afeaa40a052cb4
 
 java.io.DataOutputStream
 
+https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/io/DataOutputStream.java#L69
+
 ## Caller
 
 ```java

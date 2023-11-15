@@ -8,6 +8,8 @@ Commit: f787ce1018bbbf3e913a9987dd5d28a61e525cec
 
 java.util.Iterator
 
+https://github.com/openjdk/jdk/blob/3c6ffcadfec42c544c9b0d4188e50135f608b9db/src/java.base/share/classes/java/util/Iterator.java#L58
+
 ## Caller
 
 ```java
